@@ -2,25 +2,23 @@
 
 ***项目简介：*** 该项目使用Vue全家桶进行开发，使用ElementUI对整个项目页面进行布局，通过Axios实现前后端通信，包含用户模块、商品模块、订单模块等。
 
-
+<br/>
 
 基于Vue2+Spring Boot+Element-UI 的前后端分离项目
 `这里是前端代码的仓库哦~`  
-
+<br/>
 
 后端代码请移步 [高校二手交易平台后端仓库](https://github.com/windsong477/College-Second-hand_springboot)
-
+<br/>
 
 
 推荐使用Hbuilder部署运行哦~
 
-
+<br/>
 
 
 
 ***技术栈：***  Vue + Vue-cli + Vue-Router + Vuex + Axios + Echarts + Spring Boot + JWT + MyBatis + MySQL  
-
-
 
 细节描述：
 
