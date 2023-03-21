@@ -14,14 +14,7 @@
 
 推荐使用Hbuilder部署运行哦~
 
-# install dependencies
-npm install
 
-# serve with hot reload at localhost:1322
-npm run dev
-
-# build for production with minification
-npm run build
 
 
 <br/>
