@@ -1,13 +1,28 @@
 # 高校二手物品交易平台
 
-项目简介：该项目使用Vue全家桶进行开发，使用ElementUI对整个项目页面进行布局，通过Axios实现前后端通信，包含用户模块、商品模块、订单模块等。
+***项目简介：*** 该项目使用Vue全家桶进行开发，使用ElementUI对整个项目页面进行布局，通过Axios实现前后端通信，包含用户模块、商品模块、订单模块等。
+
+
 
 基于Vue2+Spring Boot+Element-UI 的前后端分离项目
-`这是前端代码的仓库哦~`
+`这里是前端代码的仓库哦~`  
 
-技术栈：Vue + Vue-cli + Vue-Router + Vuex + Axios + Echarts + Spring Boot + JWT + MyBatis + MySQL
 
-职责描述：
+后端代码请移步 [高校二手交易平台后端仓库](https://github.com/windsong477/College-Second-hand_springboot)
+
+
+
+推荐使用Hbuilder部署运行哦~
+
+
+
+
+
+***技术栈：***  Vue + Vue-cli + Vue-Router + Vuex + Axios + Echarts + Spring Boot + JWT + MyBatis + MySQL  
+
+
+
+细节描述：
 
 1、对 Axios 进行二次封装 ，模块化管理API接口。 
 
